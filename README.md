@@ -74,3 +74,7 @@ n = 4
 2. Software
 3. Hardware
 4. Video
+
+## © 2025 Humeez Qureshi  
+All images, videos & circuit in this repository are protected.  
+No reuse, redistribution, or modification without permission.
