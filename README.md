@@ -36,7 +36,29 @@ It uses **logic ICs (4030 and 4001)** to implement a fixed password-based lockin
 - Electronic door locks  
 - Security systems  
 - Password-based access control  
-- Learning digital logic design  
+- Learning digital logic design
+
+## Possible Combinations
+2^n
+n = 4
+2^4 = 16
+
+1. 0000
+2. 0001
+3. 0010
+4. 0011
+5. 0100
+6. 0101
+7. 0110
+8. 0111
+9. 1000
+10. 1001
+11. 1010
+12. 1011
+13. 1100
+14. 1101
+15. 1110
+16. 1111
 
 ## Circuit / Images
 - Circuit diagram and breadboard image in folder  
