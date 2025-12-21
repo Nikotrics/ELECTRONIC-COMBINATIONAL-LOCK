@@ -2,7 +2,7 @@
 
 ![Hardware Project](https://img.shields.io/badge/Type-Hardware_Project-blue)
 ![Electronics](https://img.shields.io/badge/Electronics-IC's-555555)
-![Complex](https://img.shields.io/badge/Level-Complex-green)
+![Complex](https://img.shields.io/badge/Level-Complex-purple)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## Description
