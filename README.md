@@ -1,5 +1,10 @@
 # ELECTRONIC COMBINATIONAL LOCK (WITHOUT ARDUINO)
 
+![Hardware Project](https://img.shields.io/badge/Type-Hardware_Project-blue)
+![Electronics](https://img.shields.io/badge/Electronics-555555)
+![Complex](https://img.shields.io/badge/Level-Complex-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 ## Description
 This project is an **electronic combinational lock** built **without using a microcontroller**.  
 It uses **logic ICs (4030 and 4001)** to implement a fixed password-based locking system.
