@@ -1,7 +1,7 @@
 # ELECTRONIC COMBINATIONAL LOCK (WITHOUT ARDUINO)
 
 ![Hardware Project](https://img.shields.io/badge/Type-Hardware_Project-blue)
-![Electronics](https://img.shields.io/badge/Electronics-IC's-555555)
+![Electronics](https://img.shields.io/badge/Electronics-IC's-yellow)
 ![Complex](https://img.shields.io/badge/Level-Complex-purple)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
